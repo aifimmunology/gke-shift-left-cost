@@ -1,4 +1,4 @@
-module github.com/fernandorubbo/k8s-cost-estimator
+module github.com/aifimmunology/gke-shift-left-cost
 
 go 1.15
 
