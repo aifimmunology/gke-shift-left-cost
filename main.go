@@ -23,7 +23,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/fernandorubbo/k8s-cost-estimator/api"
+	"github.com/aifimmunology/gke-shift-left-cost/api"
 	log "github.com/sirupsen/logrus"
 	"sigs.k8s.io/yaml"
 )
