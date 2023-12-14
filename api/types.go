@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/fernandorubbo/k8s-cost-estimator/util"
+	"github.com/aifimmunology/gke-shift-left-cost/util"
 	log "github.com/sirupsen/logrus"
 	"gopkg.in/yaml.v2"
 	coreV1 "k8s.io/api/core/v1"
